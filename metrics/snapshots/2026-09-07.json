@@ -1,0 +1,1141 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-07",
+  "collectedAt": "2026-09-07T14:15:34.454Z",
+  "timezone": "UTC",
+  "windowDays": 14,
+  "repositories": [
+    {
+      "name": "RocketLabs",
+      "label": "RocketLabs",
+      "nameWithOwner": "luisroquette/RocketLabs",
+      "url": "https://github.com/luisroquette/RocketLabs",
+      "stars": 0,
+      "forks": 0,
+      "views": {
+        "count": 1,
+        "uniques": 1,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "clones": {
+        "count": 20,
+        "uniques": 17,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 4,
+            "uniques": 4
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 3,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 6,
+            "uniques": 4
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "referrers": [],
+      "popularPaths": [
+        {
+          "path": "/luisroquette/RocketLabs",
+          "title": "Overview",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "name": "notchagent",
+      "label": "NotchAgent",
+      "nameWithOwner": "luisroquette/notchagent",
+      "url": "https://github.com/luisroquette/notchagent",
+      "stars": 0,
+      "forks": 0,
+      "views": {
+        "count": 19,
+        "uniques": 17,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 4,
+            "uniques": 4
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 3,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 5,
+            "uniques": 5
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 4,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "clones": {
+        "count": 581,
+        "uniques": 268,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 17,
+            "uniques": 8
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 6,
+            "uniques": 4
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 15,
+            "uniques": 6
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 523,
+            "uniques": 239
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 7,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 4,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 5,
+            "uniques": 5
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "popularPaths": [
+        {
+          "path": "/luisroquette/notchagent",
+          "title": "Overview",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/luisroquette/notchagent/actions/runs/32374714899",
+          "title": "/actions/runs/32374714899",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/notchagent/actions/runs/32420920208",
+          "title": "/actions/runs/32420920208",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/notchagent/actions/runs/32420920208/usage",
+          "title": "/actions/runs/32420920208/usage",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/notchagent/actions/runs/32420920208/workflow",
+          "title": "/actions/runs/32420920208/workflow",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/notchagent/actions/runs/32434471317",
+          "title": "/actions/runs/32434471317",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/notchagent/actions/runs/32434471317/job/96632728120",
+          "title": "/actions/runs/32434471317/job/96632728120",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/notchagent/actions/runs/32538701858",
+          "title": "/actions/runs/32538701858",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/notchagent/actions/runs/32540161360/workflow",
+          "title": "/actions/runs/32540161360/workflow",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/notchagent/actions/workflows/public-release-security.yml",
+          "title": "/actions/workflows/public-release-security.yml",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "name": "memoryguard",
+      "label": "MemoryGuard",
+      "nameWithOwner": "luisroquette/memoryguard",
+      "url": "https://github.com/luisroquette/memoryguard",
+      "stars": 0,
+      "forks": 0,
+      "views": {
+        "count": 4,
+        "uniques": 2,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "clones": {
+        "count": 12,
+        "uniques": 12,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 3,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 4,
+            "uniques": 4
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "referrers": [],
+      "popularPaths": [
+        {
+          "path": "/luisroquette/memoryguard",
+          "title": "Overview",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/memoryguard/pull/1",
+          "title": "/pull/1",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/memoryguard/pull/2",
+          "title": "/pull/2",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "name": "social-machine-for-all",
+      "label": "Social Machine",
+      "nameWithOwner": "luisroquette/social-machine-for-all",
+      "url": "https://github.com/luisroquette/social-machine-for-all",
+      "stars": 0,
+      "forks": 0,
+      "views": {
+        "count": 13,
+        "uniques": 8,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 4,
+            "uniques": 4
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 4,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 2,
+            "uniques": 1
+          }
+        ]
+      },
+      "clones": {
+        "count": 24,
+        "uniques": 21,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 4,
+            "uniques": 4
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 9,
+            "uniques": 6
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 3,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "referrers": [
+        {
+          "referrer": "chatgpt.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "luisroquette.github.io",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "popularPaths": [
+        {
+          "path": "/luisroquette/social-machine-for-all",
+          "title": "Overview",
+          "count": 11,
+          "uniques": 8
+        },
+        {
+          "path": "/luisroquette/social-machine-for-all/tree/main/assets",
+          "title": "/tree/main/assets",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/luisroquette/social-machine-for-all/tree/main/src",
+          "title": "/tree/main/src",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    {
+      "name": "autoblog-template",
+      "label": "My_Blog_Makes_Neil_Proud",
+      "nameWithOwner": "luisroquette/autoblog-template",
+      "url": "https://github.com/luisroquette/My_Blog_Makes_Neil_Proud",
+      "stars": 0,
+      "forks": 0,
+      "views": {
+        "count": 3,
+        "uniques": 2,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "clones": {
+        "count": 114,
+        "uniques": 54,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 3,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 3,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 47,
+            "uniques": 26
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 42,
+            "uniques": 23
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 4,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 3,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "popularPaths": [
+        {
+          "path": "/luisroquette/My_Blog_Makes_Neil_Proud",
+          "title": "Overview",
+          "count": 3,
+          "uniques": 2
+        }
+      ]
+    },
+    {
+      "name": "carousel-story-engine",
+      "label": "Carousel Engine",
+      "nameWithOwner": "luisroquette/carousel-story-engine",
+      "url": "https://github.com/luisroquette/carousel-story-engine",
+      "stars": 0,
+      "forks": 0,
+      "views": {
+        "count": 3,
+        "uniques": 3,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      "clones": {
+        "count": 16,
+        "uniques": 16,
+        "daily": [
+          {
+            "timestamp": "2026-08-23T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-24T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-08-25T00:00:00Z",
+            "count": 3,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-08-26T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-08-27T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-08-28T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-08-29T00:00:00Z",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "timestamp": "2026-08-30T00:00:00Z",
+            "count": 3,
+            "uniques": 3
+          },
+          {
+            "timestamp": "2026-08-31T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-01T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-02T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-03T00:00:00Z",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "timestamp": "2026-09-04T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          },
+          {
+            "timestamp": "2026-09-05T00:00:00Z",
+            "count": 0,
+            "uniques": 0
+          }
+        ]
+      },
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "popularPaths": [
+        {
+          "path": "/luisroquette/carousel-story-engine",
+          "title": "Overview",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/luisroquette/carousel-story-engine/pull/6",
+          "title": "/pull/6",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    }
+  ]
+}

@@ -9,23 +9,24 @@ repository data.
 <!-- TRAFFIC:START -->
 ## Latest snapshot
 
-Collected **2026-08-31T16:10:27.679Z**. Traffic totals cover GitHub's rolling
+Collected **2026-09-07T14:15:34.454Z**. Traffic totals cover GitHub's rolling
 14-day window.
 
-**Most accessed project:** NotchAgent with 26
+**Most accessed project:** NotchAgent with 17
 unique visitors.
 
 | Project | Views | Unique visitors | Clones | Unique cloners | Top referrer | Stars | Approx. conversion |
 |---|---:|---:|---:|---:|---|---:|---:|
-| [RocketLabs](https://github.com/luisroquette/RocketLabs) | 3 | 3 | 35 | 19 | Google (1 unique) | 0 | 0.0% |
-| [NotchAgent](https://github.com/luisroquette/notchagent) | 42 | 26 | 243 | 70 | github.com (3 unique) | 0 | 0.0% |
-| [MemoryGuard](https://github.com/luisroquette/memoryguard) | 4 | 3 | 8 | 8 | github.com (1 unique) | 0 | 0.0% |
-| [Social Machine](https://github.com/luisroquette/social-machine-for-all) | 8 | 7 | 22 | 19 | github.com (2 unique) | 0 | 0.0% |
-| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette/My_Blog_Makes_Neil_Proud) | 7 | 2 | 163 | 76 | github.com (1 unique) | 0 | 0.0% |
-| [Carousel Engine](https://github.com/luisroquette/carousel-story-engine) | 2 | 2 | 20 | 20 | github.com (1 unique) | 0 | 0.0% |
+| [RocketLabs](https://github.com/luisroquette/RocketLabs) | 1 | 1 | 20 | 17 | — | 0 | 0.0% |
+| [NotchAgent](https://github.com/luisroquette/notchagent) | 19 | 17 | 581 | 268 | github.com (1 unique) | 0 | 0.0% |
+| [MemoryGuard](https://github.com/luisroquette/memoryguard) | 4 | 2 | 12 | 12 | — | 0 | 0.0% |
+| [Social Machine](https://github.com/luisroquette/social-machine-for-all) | 13 | 8 | 24 | 21 | chatgpt.com (2 unique) | 0 | 0.0% |
+| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette/My_Blog_Makes_Neil_Proud) | 3 | 2 | 114 | 54 | github.com (1 unique) | 0 | 0.0% |
+| [Carousel Engine](https://github.com/luisroquette/carousel-story-engine) | 3 | 3 | 16 | 16 | github.com (1 unique) | 0 | 0.0% |
 
 ### Snapshot history
 
+- [2026-09-07](./snapshots/2026-09-07.json)
 - [2026-08-31](./snapshots/2026-08-31.json)
 - [2026-08-24](./snapshots/2026-08-24.json)
 - [2026-08-17](./snapshots/2026-08-17.json)
