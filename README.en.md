@@ -49,8 +49,8 @@
 ## Start with NotchAgent
 
 <p align="center">
-  <a href="https://github.com/luisroquette/notchagent">
-    <img src="https://raw.githubusercontent.com/luisroquette/notchagent/master/docs/img/desktop-now.png" alt="NotchAgent showing AI-agent quotas, burn rate and alerts on macOS" width="100%" />
+  <a href="https://github.com/luisroquette-labs/notchagent">
+    <img src="https://raw.githubusercontent.com/luisroquette-labs/notchagent/master/docs/img/desktop-now.png" alt="NotchAgent showing AI-agent quotas, burn rate and alerts on macOS" width="100%" />
   </a>
 </p>
 
@@ -66,15 +66,15 @@ Codex quota remains, projects when it may run out and warns you before you hit
 the limit — directly in the MacBook notch.
 
 ```bash
-brew install --cask luisroquette/tap/notchagent
+brew install --cask luisroquette-labs/tap/notchagent
 ```
 
 <p align="center">
-  <a href="https://github.com/luisroquette/notchagent#install"><strong>Install now →</strong></a>
+  <a href="https://github.com/luisroquette-labs/notchagent#install"><strong>Install now →</strong></a>
   ·
-  <a href="https://github.com/luisroquette/notchagent/releases/tag/v1.0.1"><strong>Download v1.0.1</strong></a>
+  <a href="https://github.com/luisroquette-labs/notchagent/releases/tag/v1.0.1"><strong>Download v1.0.1</strong></a>
   ·
-  <a href="https://github.com/luisroquette/notchagent#dados-o-que-é-real-o-que-é-estimado"><strong>Understand the data</strong></a>
+  <a href="https://github.com/luisroquette-labs/notchagent#dados-o-que-é-real-o-que-é-estimado"><strong>Understand the data</strong></a>
 </p>
 
 ## Builder library
@@ -100,40 +100,40 @@ projects into public, safe and understandable repositories.
 
 | If you want to… | Start here |
 |---|---|
-| Monitor AI-agent limits directly from your Mac | **[NotchAgent](https://github.com/luisroquette/notchagent)** |
-| Prevent stalls when multiple heavy builds compete for Mac memory | **[MemoryGuard](https://luisroquette.github.io/memoryguard/)** |
-| Run end-to-end content operations with human control | **[Social Machine for All](https://github.com/luisroquette/social-machine-for-all)** |
-| Turn briefs into SEO articles on your own domain | **[My_Blog_Makes_Neil_Proud](https://github.com/luisroquette/autoblog-template)** |
-| Build evidence-led carousels with editorial QA | **[Carousel Story Engine](https://github.com/luisroquette/carousel-story-engine)** |
-| Connect agents to Brazilian AI news and data | **[SWEN.AI MCP Server](https://github.com/luisroquette/swen-mcp-server)** |
+| Monitor AI-agent limits directly from your Mac | **[NotchAgent](https://github.com/luisroquette-labs/notchagent)** |
+| Prevent stalls when multiple heavy builds compete for Mac memory | **[MemoryGuard](https://luisroquette-labs.github.io/memoryguard/)** |
+| Run end-to-end content operations with human control | **[Social Machine for All](https://github.com/cfgauss-ai/social-machine-for-all)** |
+| Turn briefs into SEO articles on your own domain | **[My_Blog_Makes_Neil_Proud](https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud)** |
+| Build evidence-led carousels with editorial QA | **[Carousel Story Engine](https://github.com/luisroquette-labs/carousel-story-engine)** |
+| Connect agents to Brazilian AI news and data | **[SWEN.AI MCP Server](https://github.com/cfgauss-ai/swen-mcp-server)** |
 
 ## See them in action
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/luisroquette/social-machine-for-all">
-        <img src="https://raw.githubusercontent.com/luisroquette/social-machine-for-all/master/assets/social-machine-demo.svg" alt="Social Machine workflow demonstration" width="100%" />
+      <a href="https://github.com/cfgauss-ai/social-machine-for-all">
+        <img src="https://raw.githubusercontent.com/cfgauss-ai/social-machine-for-all/master/assets/social-machine-demo.svg" alt="Social Machine workflow demonstration" width="100%" />
       </a>
       <p align="center"><strong>Social Machine</strong><br /><sub>From signal to editorial approval.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/luisroquette/notchagent">
-        <img src="https://raw.githubusercontent.com/luisroquette/notchagent/master/docs/img/desktop-now.png" alt="NotchAgent showing AI-agent quotas on macOS" width="100%" />
+      <a href="https://github.com/luisroquette-labs/notchagent">
+        <img src="https://raw.githubusercontent.com/luisroquette-labs/notchagent/master/docs/img/desktop-now.png" alt="NotchAgent showing AI-agent quotas on macOS" width="100%" />
       </a>
       <p align="center"><strong>NotchAgent</strong><br /><sub>Quota, pace and alerts without leaving the desktop.</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/luisroquette/autoblog-template">
-        <img src="https://raw.githubusercontent.com/luisroquette/autoblog-template/main/assets/pipeline-walkthrough.gif" alt="My_Blog_Makes_Neil_Proud animated pipeline" width="100%" />
+      <a href="https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud">
+        <img src="https://raw.githubusercontent.com/luisroquette-labs/My_Blog_Makes_Neil_Proud/main/assets/pipeline-walkthrough.gif" alt="My_Blog_Makes_Neil_Proud animated pipeline" width="100%" />
       </a>
       <p align="center"><strong>My_Blog_Makes_Neil_Proud</strong><br /><sub>From brief to published article.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/luisroquette/carousel-story-engine">
-        <img src="https://raw.githubusercontent.com/luisroquette/carousel-story-engine/main/assets/workflow-demo.gif" alt="Carousel Story Engine animated workflow" width="100%" />
+      <a href="https://github.com/luisroquette-labs/carousel-story-engine">
+        <img src="https://raw.githubusercontent.com/luisroquette-labs/carousel-story-engine/main/assets/workflow-demo.gif" alt="Carousel Story Engine animated workflow" width="100%" />
       </a>
       <p align="center"><strong>Carousel Story Engine</strong><br /><sub>From raw idea to production-ready narrative.</sub></p>
     </td>
@@ -147,69 +147,69 @@ projects into public, safe and understandable repositories.
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://luisroquette.github.io/memoryguard/">
+      <a href="https://luisroquette-labs.github.io/memoryguard/">
         <img src="./assets/projects/memoryguard.svg" alt="MemoryGuard" width="100%" />
       </a>
       <h3>MemoryGuard</h3>
       <p>Local protection for developers running multiple heavy builds on a Mac. It detects real pressure, pauses only the newest eligible build and resumes automatically—without deleting files, closing apps or sending telemetry.</p>
       <p><strong>Swift 6 · SwiftUI · macOS · MIT</strong></p>
-      <a href="https://luisroquette.github.io/memoryguard/"><strong>See the product and download free →</strong></a>
+      <a href="https://luisroquette-labs.github.io/memoryguard/"><strong>See the product and download free →</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/luisroquette/social-machine-for-all">
+      <a href="https://github.com/cfgauss-ai/social-machine-for-all">
         <img src="./assets/projects/social-machine.svg" alt="Social Machine for All" width="100%" />
       </a>
       <h3>Social Machine for All</h3>
       <p>A self-hosted system to discover signals, create, review, publish and learn from content while keeping brand, data and decisions under your control.</p>
       <p><strong>Next.js · Supabase · AI agents</strong></p>
-      <a href="https://github.com/luisroquette/social-machine-for-all"><strong>Explore the project →</strong></a>
+      <a href="https://github.com/cfgauss-ai/social-machine-for-all"><strong>Explore the project →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/luisroquette/autoblog-template">
+      <a href="https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud">
         <img src="./assets/projects/autoblog.svg" alt="My_Blog_Makes_Neil_Proud" width="100%" />
       </a>
       <h3>My_Blog_Makes_Neil_Proud</h3>
       <p>Open-source infrastructure that moves a brief to a published article with an editorial profile, SEO, execution control and your own data.</p>
       <p><strong>Next.js · Supabase · SEO</strong></p>
-      <a href="https://github.com/luisroquette/autoblog-template"><strong>Explore the project →</strong></a>
+      <a href="https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud"><strong>Explore the project →</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/luisroquette/notchagent">
+      <a href="https://github.com/luisroquette-labs/notchagent">
         <img src="./assets/projects/notchagent.svg" alt="NotchAgent" width="100%" />
       </a>
       <h3>NotchAgent</h3>
       <p>The fuel gauge for your AI agents in the MacBook notch: limits, burn rate and alerts with a local-first architecture.</p>
       <p><strong>Swift 6 · SwiftUI · macOS</strong></p>
-      <a href="https://github.com/luisroquette/notchagent"><strong>Install or inspect the code →</strong></a>
+      <a href="https://github.com/luisroquette-labs/notchagent"><strong>Install or inspect the code →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/luisroquette/carousel-story-engine">
+      <a href="https://github.com/luisroquette-labs/carousel-story-engine">
         <img src="./assets/projects/carousel-engine.svg" alt="Carousel Story Engine" width="100%" />
       </a>
       <h3>Carousel Story Engine</h3>
       <p>A portable skill that turns a rough idea into an evidence-led carousel through research, hook comparison and editorial QA.</p>
       <p><strong>AI skill · Research · Editorial QA</strong></p>
-      <a href="https://github.com/luisroquette/carousel-story-engine"><strong>Use the skill →</strong></a>
+      <a href="https://github.com/luisroquette-labs/carousel-story-engine"><strong>Use the skill →</strong></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/luisroquette/motor-empiricus">
+      <a href="https://github.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud">
         <img src="./assets/projects/motor-empiricus.svg" alt="My_MailMKT_makes_Neil_Proud" width="100%" />
       </a>
       <h3>My_MailMKT_makes_Neil_Proud</h3>
       <p align="center">
-        <a href="https://github.com/luisroquette/motor-empiricus/blob/main/assets/output-weekly-digest.png"><img src="https://raw.githubusercontent.com/luisroquette/motor-empiricus/main/assets/output-weekly-digest.png" alt="Real weekly digest" width="31%" /></a>
-        <a href="https://github.com/luisroquette/motor-empiricus/blob/main/assets/output-editorial-lesson.png"><img src="https://raw.githubusercontent.com/luisroquette/motor-empiricus/main/assets/output-editorial-lesson.png" alt="Real editorial lesson" width="31%" /></a>
-        <a href="https://github.com/luisroquette/motor-empiricus/blob/main/assets/output-campaign-letter.png"><img src="https://raw.githubusercontent.com/luisroquette/motor-empiricus/main/assets/output-campaign-letter.png" alt="Real campaign letter" width="31%" /></a>
+        <a href="https://github.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud/blob/main/assets/output-weekly-digest.png"><img src="https://raw.githubusercontent.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud/main/assets/output-weekly-digest.png" alt="Real weekly digest" width="31%" /></a>
+        <a href="https://github.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud/blob/main/assets/output-editorial-lesson.png"><img src="https://raw.githubusercontent.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud/main/assets/output-editorial-lesson.png" alt="Real editorial lesson" width="31%" /></a>
+        <a href="https://github.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud/blob/main/assets/output-campaign-letter.png"><img src="https://raw.githubusercontent.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud/main/assets/output-campaign-letter.png" alt="Real campaign letter" width="31%" /></a>
       </p>
       <p>A portable lead-nurture system that organizes lessons, letters and echoes into a conversion sequence with sourced claims, installable templates and deterministic checks.</p>
       <p><strong>AI skill · Lifecycle email · Compliance</strong></p>
-      <a href="https://github.com/luisroquette/motor-empiricus#quick-start"><strong>Install the engine →</strong></a>
+      <a href="https://github.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud#quick-start"><strong>Install the engine →</strong></a>
     </td>
   </tr>
 </table>
@@ -219,15 +219,15 @@ projects into public, safe and understandable repositories.
 <!-- PROJECTS:START -->
 | Project | What it solves | Category | Status | Use |
 |---|---|---|---|---|
-| [NotchAgent](https://github.com/luisroquette/notchagent) | AI agent quotas and burn rate in the MacBook notch. | Developer tools | 🟢 Active | Public code |
-| [MemoryGuard](https://github.com/luisroquette/memoryguard) · [demo](https://luisroquette.github.io/memoryguard/) | Local memory-pressure protection for concurrent heavy Mac builds. | Developer tools | 🟢 Active | [MIT](https://github.com/luisroquette/memoryguard/blob/HEAD/LICENSE) |
-| [Social Machine for All](https://github.com/luisroquette/social-machine-for-all) | Self-hosted content operations, from signal to learning. | Content systems | 🟢 Active | [MIT](https://github.com/luisroquette/social-machine-for-all/blob/HEAD/LICENSE) |
-| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette/autoblog-template) | A repeatable brief-to-SEO-to-publishing pipeline. | Publishing | 🟢 Active | [MIT](https://github.com/luisroquette/autoblog-template/blob/HEAD/LICENSE) |
-| [Carousel Story Engine](https://github.com/luisroquette/carousel-story-engine) | Research-led carousels with narrative and editorial QA. | AI skills | 🟢 Active | [MIT](https://github.com/luisroquette/carousel-story-engine/blob/HEAD/LICENSE) |
-| [My_MailMKT_makes_Neil_Proud](https://github.com/luisroquette/motor-empiricus) · [demo](https://github.com/luisroquette/motor-empiricus#what-it-produces) | Lead nurture through lessons, letters, echoes and deterministic claim checks. | Lifecycle marketing | 🟢 Active | [MIT](https://github.com/luisroquette/motor-empiricus/blob/HEAD/LICENSE) |
-| [SWEN.AI MCP Server](https://github.com/luisroquette/swen-mcp-server) | Public Brazilian AI data for agents through MCP. | AI infrastructure | 🔵 Reference | [MIT](https://github.com/luisroquette/swen-mcp-server/blob/HEAD/LICENSE) |
-| [GaussMob](https://github.com/luisroquette/gaussmob-nextjs) | A portal for an electric-mobility ecosystem. | Web products | 🟡 Evolving | Public code |
-| [Coesa Auditoria](https://github.com/luisroquette/coesa-auditoria) · [demo](https://coesa-auditoria.vercel.app) | A web experience for energy-bill auditing. | Web products | 🟡 Evolving | Public code |
+| [NotchAgent](https://github.com/luisroquette-labs/notchagent) | AI agent quotas and burn rate in the MacBook notch. | Developer tools | 🟢 Active | Public code |
+| [MemoryGuard](https://github.com/luisroquette-labs/memoryguard) · [demo](https://luisroquette-labs.github.io/memoryguard/) | Local memory-pressure protection for concurrent heavy Mac builds. | Developer tools | 🟢 Active | [MIT](https://github.com/luisroquette-labs/memoryguard/blob/HEAD/LICENSE) |
+| [Social Machine for All](https://github.com/cfgauss-ai/social-machine-for-all) | Self-hosted content operations, from signal to learning. | Content systems | 🟢 Active | [MIT](https://github.com/cfgauss-ai/social-machine-for-all/blob/HEAD/LICENSE) |
+| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud) | A repeatable brief-to-SEO-to-publishing pipeline. | Publishing | 🟢 Active | [MIT](https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud/blob/HEAD/LICENSE) |
+| [Carousel Story Engine](https://github.com/luisroquette-labs/carousel-story-engine) | Research-led carousels with narrative and editorial QA. | AI skills | 🟢 Active | [MIT](https://github.com/luisroquette-labs/carousel-story-engine/blob/HEAD/LICENSE) |
+| [My_MailMKT_makes_Neil_Proud](https://github.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud) · [demo](https://github.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud#what-it-produces) | Lead nurture through lessons, letters, echoes and deterministic claim checks. | Lifecycle marketing | 🟢 Active | [MIT](https://github.com/luisroquette-labs/My_MailMKT_makes_Neil_Proud/blob/HEAD/LICENSE) |
+| [SWEN.AI MCP Server](https://github.com/cfgauss-ai/swen-mcp-server) | Public Brazilian AI data for agents through MCP. | AI infrastructure | 🔵 Reference | [MIT](https://github.com/cfgauss-ai/swen-mcp-server/blob/HEAD/LICENSE) |
+| [GaussMob](https://github.com/cfgauss-ai/mova-nextjs) | A portal for an electric-mobility ecosystem. | Web products | 🟡 Evolving | Public code |
+| [Coesa Auditoria](https://github.com/Coesa-Energia/coesa-auditoria) · [demo](https://coesa-auditoria.vercel.app) | A web experience for energy-bill auditing. | Web products | 🟡 Evolving | Public code |
 <!-- PROJECTS:END -->
 
 Statuses describe maintenance, not quality: **active** receives continuous work;

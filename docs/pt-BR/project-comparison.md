@@ -7,13 +7,13 @@ substitui a leitura dos requisitos e da licença de cada projeto.
 
 | Projeto | Escolha quando você precisa… | Resultado principal | Modelo | Reuso |
 |---|---|---|---|---|
-| [NotchAgent](https://github.com/luisroquette/notchagent) | acompanhar quotas e ritmo de consumo de agentes no Mac | monitor local no notch/menu bar | aplicativo macOS | código público; consulte a licença |
-| [Social Machine for All](https://github.com/luisroquette/social-machine-for-all) | operar conteúdo do sinal à revisão e publicação | operação editorial self-hosted | aplicação Next.js + Supabase | MIT |
-| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette/autoblog-template) | transformar pautas em artigos SEO no seu domínio | pipeline de publicação replicável | template Next.js + Supabase | MIT |
-| [Carousel Story Engine](https://github.com/luisroquette/carousel-story-engine) | criar carrosséis com pesquisa e QA editorial | skill e workflow de conteúdo | skill portátil | MIT |
-| [SWEN.AI MCP Server](https://github.com/luisroquette/swen-mcp-server) | conectar agentes a notícias e dados brasileiros de IA | ferramentas e recursos via MCP | infraestrutura para agentes | MIT |
-| [GaussMob](https://github.com/luisroquette/gaussmob-nextjs) | estudar um portal de mobilidade elétrica | produto web em evolução | aplicação web | código público; consulte a licença |
-| [Coesa Auditoria](https://github.com/luisroquette/coesa-auditoria) | explorar uma experiência de auditoria de faturas | aplicação e demo web | produto web | código público; consulte a licença |
+| [NotchAgent](https://github.com/luisroquette-labs/notchagent) | acompanhar quotas e ritmo de consumo de agentes no Mac | monitor local no notch/menu bar | aplicativo macOS | código público; consulte a licença |
+| [Social Machine for All](https://github.com/cfgauss-ai/social-machine-for-all) | operar conteúdo do sinal à revisão e publicação | operação editorial self-hosted | aplicação Next.js + Supabase | MIT |
+| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud) | transformar pautas em artigos SEO no seu domínio | pipeline de publicação replicável | template Next.js + Supabase | MIT |
+| [Carousel Story Engine](https://github.com/luisroquette-labs/carousel-story-engine) | criar carrosséis com pesquisa e QA editorial | skill e workflow de conteúdo | skill portátil | MIT |
+| [SWEN.AI MCP Server](https://github.com/cfgauss-ai/swen-mcp-server) | conectar agentes a notícias e dados brasileiros de IA | ferramentas e recursos via MCP | infraestrutura para agentes | MIT |
+| [GaussMob](https://github.com/cfgauss-ai/mova-nextjs) | estudar um portal de mobilidade elétrica | produto web em evolução | aplicação web | código público; consulte a licença |
+| [Coesa Auditoria](https://github.com/Coesa-Energia/coesa-auditoria) | explorar uma experiência de auditoria de faturas | aplicação e demo web | produto web | código público; consulte a licença |
 
 ## Escolha rápida
 

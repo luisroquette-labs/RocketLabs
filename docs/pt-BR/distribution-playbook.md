@@ -18,10 +18,10 @@ pessoa pensar: “é exatamente o problema que estou tentando resolver”.
 
 | Projeto | Problema de entrada | Prova visual | Destino |
 |---|---|---|---|
-| NotchAgent | Seu agente vai acabar a quota antes de terminar? | [`panel-burn.png`](https://github.com/luisroquette/notchagent/blob/master/docs/img/panel-burn.png) | [NotchAgent](https://github.com/luisroquette/notchagent) |
-| Social Machine | Conteúdo não precisa viver entre planilhas e prompts. | [`social-machine-demo.mp4`](https://github.com/luisroquette/social-machine-for-all/blob/master/assets/social-machine-demo.mp4) | [Social Machine](https://github.com/luisroquette/social-machine-for-all) |
-| My_Blog_Makes_Neil_Proud | Como publicar SEO sem entregar seu conteúdo a uma plataforma. | [`pipeline-walkthrough.gif`](https://github.com/luisroquette/autoblog-template/blob/main/assets/pipeline-walkthrough.gif) | [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette/autoblog-template) |
-| Carousel Story Engine | Por que carrosséis de IA parecem todos iguais? | [`before-after.png`](https://github.com/luisroquette/carousel-story-engine/blob/main/assets/before-after.png) | [Carousel Engine](https://github.com/luisroquette/carousel-story-engine) |
+| NotchAgent | Seu agente vai acabar a quota antes de terminar? | [`panel-burn.png`](https://github.com/luisroquette-labs/notchagent/blob/master/docs/img/panel-burn.png) | [NotchAgent](https://github.com/luisroquette-labs/notchagent) |
+| Social Machine | Conteúdo não precisa viver entre planilhas e prompts. | [`social-machine-demo.mp4`](https://github.com/cfgauss-ai/social-machine-for-all/blob/master/assets/social-machine-demo.mp4) | [Social Machine](https://github.com/cfgauss-ai/social-machine-for-all) |
+| My_Blog_Makes_Neil_Proud | Como publicar SEO sem entregar seu conteúdo a uma plataforma. | [`pipeline-walkthrough.gif`](https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud/blob/main/assets/pipeline-walkthrough.gif) | [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud) |
+| Carousel Story Engine | Por que carrosséis de IA parecem todos iguais? | [`before-after.png`](https://github.com/luisroquette-labs/carousel-story-engine/blob/main/assets/before-after.png) | [Carousel Engine](https://github.com/luisroquette-labs/carousel-story-engine) |
 
 ## 1. NotchAgent
 
@@ -37,13 +37,13 @@ pessoa pensar: “é exatamente o problema que estou tentando resolver”.
 > Codex, avisa quando o tanque está baixo e não envia telemetria para um backend.
 >
 > É nativo em Swift, open source e instalável por Homebrew:
-> https://github.com/luisroquette/notchagent
+> https://github.com/luisroquette-labs/notchagent
 
 **Versão curta**
 
 > 42% de quota restante pode significar “tranquilo” ou “acaba antes desta tarefa”.
 > O NotchAgent mostra saldo, reset e burn rate no notch do Mac.
-> https://github.com/luisroquette/notchagent
+> https://github.com/luisroquette-labs/notchagent
 
 **Próxima publicação:** mostrar o gráfico BURN e explicar a diferença entre
 percentual oficial, tokens locais e projeção.
@@ -63,7 +63,7 @@ percentual oficial, tokens locais e projeção.
 > Automações e publicação começam desligadas; o time decide quando ativá-las.
 >
 > O template é self-hosted e está disponível sob licença MIT:
-> https://github.com/luisroquette/social-machine-for-all
+> https://github.com/cfgauss-ai/social-machine-for-all
 
 **Versão curta**
 
@@ -71,7 +71,7 @@ percentual oficial, tokens locais e projeção.
 > outra ferramenta.
 >
 > O Social Machine conecta esse histórico num fluxo self-hosted:
-> https://github.com/luisroquette/social-machine-for-all
+> https://github.com/cfgauss-ai/social-machine-for-all
 
 **Próxima publicação:** acompanhar uma pauta do sinal à aprovação usando o vídeo
 de demonstração.
@@ -91,13 +91,13 @@ de demonstração.
 > Console desligados até você decidir configurar cada integração.
 >
 > O template, a migration e o guia de instalação estão aqui:
-> https://github.com/luisroquette/autoblog-template
+> https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud
 
 **Versão curta**
 
 > Seu blog pode viver no seu repositório, no seu domínio e no seu banco.
 > Next.js + Supabase + pipeline editorial replicável:
-> https://github.com/luisroquette/autoblog-template
+> https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud
 
 **Próxima publicação:** abrir o arquivo `autoblog-profile.ts` e mostrar tudo que
 uma empresa precisa trocar para adaptar o template.
@@ -118,7 +118,7 @@ uma empresa precisa trocar para adaptar o template.
 > dependa apenas de gosto.
 >
 > A skill é Markdown, não exige serviço próprio e pode ser adaptada:
-> https://github.com/luisroquette/carousel-story-engine
+> https://github.com/luisroquette-labs/carousel-story-engine
 
 **Versão curta**
 
@@ -126,7 +126,7 @@ uma empresa precisa trocar para adaptar o template.
 >
 > O Carousel Story Engine adiciona argumento, evidência, progressão e direção
 > visual ao processo:
-> https://github.com/luisroquette/carousel-story-engine
+> https://github.com/luisroquette-labs/carousel-story-engine
 
 **Próxima publicação:** publicar o comparativo antes/depois e explicar qual
 função narrativa mudou em cada slide.
