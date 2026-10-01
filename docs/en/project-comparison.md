@@ -7,13 +7,13 @@ reading each project's requirements and license.
 
 | Project | Choose it when you need… | Primary outcome | Model | Reuse |
 |---|---|---|---|---|
-| [NotchAgent](https://github.com/luisroquette/notchagent) | AI-agent quota and burn-rate visibility on Mac | local notch/menu-bar monitor | macOS app | public code; check its license |
-| [Social Machine for All](https://github.com/luisroquette/social-machine-for-all) | content operations from signal to review and publishing | self-hosted editorial operation | Next.js + Supabase app | MIT |
-| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette/autoblog-template) | turning briefs into SEO articles on your domain | repeatable publishing pipeline | Next.js + Supabase template | MIT |
-| [Carousel Story Engine](https://github.com/luisroquette/carousel-story-engine) | research-led carousels with editorial QA | content skill and workflow | portable skill | MIT |
-| [SWEN.AI MCP Server](https://github.com/luisroquette/swen-mcp-server) | Brazilian AI news and data inside agents | MCP tools and resources | agent infrastructure | MIT |
-| [GaussMob](https://github.com/luisroquette/gaussmob-nextjs) | studying an electric-mobility portal | evolving web product | web application | public code; check its license |
-| [Coesa Auditoria](https://github.com/luisroquette/coesa-auditoria) | exploring an energy-bill audit experience | web app and demo | web product | public code; check its license |
+| [NotchAgent](https://github.com/luisroquette-labs/notchagent) | AI-agent quota and burn-rate visibility on Mac | local notch/menu-bar monitor | macOS app | public code; check its license |
+| [Social Machine for All](https://github.com/cfgauss-ai/social-machine-for-all) | content operations from signal to review and publishing | self-hosted editorial operation | Next.js + Supabase app | MIT |
+| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud) | turning briefs into SEO articles on your domain | repeatable publishing pipeline | Next.js + Supabase template | MIT |
+| [Carousel Story Engine](https://github.com/luisroquette-labs/carousel-story-engine) | research-led carousels with editorial QA | content skill and workflow | portable skill | MIT |
+| [SWEN.AI MCP Server](https://github.com/cfgauss-ai/swen-mcp-server) | Brazilian AI news and data inside agents | MCP tools and resources | agent infrastructure | MIT |
+| [GaussMob](https://github.com/cfgauss-ai/mova-nextjs) | studying an electric-mobility portal | evolving web product | web application | public code; check its license |
+| [Coesa Auditoria](https://github.com/Coesa-Energia/coesa-auditoria) | exploring an energy-bill audit experience | web app and demo | web product | public code; check its license |
 
 ## Quick choice
 

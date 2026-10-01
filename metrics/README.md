@@ -17,12 +17,12 @@ unique visitors.
 
 | Project | Views | Unique visitors | Clones | Unique cloners | Top referrer | Stars | Approx. conversion |
 |---|---:|---:|---:|---:|---|---:|---:|
-| [RocketLabs](https://github.com/luisroquette/RocketLabs) | 1 | 1 | 19 | 13 | github.com (1 unique) | 0 | 0.0% |
-| [NotchAgent](https://github.com/luisroquette/notchagent) | 0 | 0 | 118 | 44 | — | 0 | — |
-| [MemoryGuard](https://github.com/luisroquette/memoryguard) | 1 | 1 | 7 | 7 | — | 0 | 0.0% |
-| [Social Machine](https://github.com/luisroquette/social-machine-for-all) | 11 | 8 | 10 | 10 | luisroquette.github.io (1 unique) | 0 | 0.0% |
-| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette/My_Blog_Makes_Neil_Proud) | 2 | 2 | 6 | 6 | github.com (1 unique) | 0 | 0.0% |
-| [Carousel Engine](https://github.com/luisroquette/carousel-story-engine) | 5 | 4 | 12 | 10 | app.clickup.com (1 unique) | 0 | 0.0% |
+| [RocketLabs](https://github.com/luisroquette-labs/RocketLabs) | 1 | 1 | 19 | 13 | github.com (1 unique) | 0 | 0.0% |
+| [NotchAgent](https://github.com/luisroquette-labs/notchagent) | 0 | 0 | 118 | 44 | — | 0 | — |
+| [MemoryGuard](https://github.com/luisroquette-labs/memoryguard) | 1 | 1 | 7 | 7 | — | 0 | 0.0% |
+| [Social Machine](https://github.com/cfgauss-ai/social-machine-for-all) | 11 | 8 | 10 | 10 | luisroquette.github.io (1 unique) | 0 | 0.0% |
+| [My_Blog_Makes_Neil_Proud](https://github.com/luisroquette-labs/My_Blog_Makes_Neil_Proud) | 2 | 2 | 6 | 6 | github.com (1 unique) | 0 | 0.0% |
+| [Carousel Engine](https://github.com/luisroquette-labs/carousel-story-engine) | 5 | 4 | 12 | 10 | app.clickup.com (1 unique) | 0 | 0.0% |
 
 ### Snapshot history
 

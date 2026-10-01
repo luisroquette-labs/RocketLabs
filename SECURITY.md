@@ -11,7 +11,7 @@ projeto. Para um problema neste catálogo:
 1. Não abra uma issue pública se o relato contiver segredo, dado pessoal ou
    instruções de exploração.
 2. Use o canal privado de
-   [security advisories](https://github.com/luisroquette/RocketLabs/security/advisories/new).
+   [security advisories](https://github.com/luisroquette-labs/RocketLabs/security/advisories/new).
 3. Inclua impacto, passos mínimos de reprodução e arquivos afetados.
 
 Não há prazo garantido de resposta. Relatos claros e reproduzíveis serão
